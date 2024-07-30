@@ -1,0 +1,5 @@
+### Compilar el archivo ###
+javac {Nombre archivo.java}
+
+### Ejecutar ###
+java {Nombre del compilado}
